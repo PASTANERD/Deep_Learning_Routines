@@ -286,7 +286,7 @@ neural network architecture for handwritten and
 machine-printed character recognition.
 
 Details of this project can be found from 
-<a href="https://github.com/adki/DLR_Projects/LeNet-5" target="_blank">DLR Projects: LeNet-5</a>.
+<a href="https://github.com/adki/DLR_Projects" target="_blank">DLR Projects: LeNet-5</a>.
 
 | ![LeNet-5 project on FPGA](doc/images/lenet5-on-fpga.png) |
 |:---:|
@@ -321,7 +321,7 @@ YOLO is a popular convolutional
 neural network architecture for object detection.
 
 Details of this project can be found from 
-<a href="https://github.com/adki/DLR_Projects/YoloV2Tiny" target="_blank">DLR Projects: Tiny YOLO-V2</a>.
+<a href="https://github.com/adki/DLR_Projects" target="_blank">DLR Projects: Tiny YOLO-V2</a>.
 
 | ![Tiny YOLO-V2 project on FPGA](doc/images/yolov2tiny-on-fpga.png) |
 |:---:|
